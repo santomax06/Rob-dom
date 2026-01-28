@@ -1,0 +1,7 @@
+{
+  "name": "LEGO WeDo 2.0 Challenge Master",
+  "description": "Uma ferramenta interactiva para criar e gerir pistas de desafios de robótica LEGO WeDo 2.0, com geração de missões via IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
